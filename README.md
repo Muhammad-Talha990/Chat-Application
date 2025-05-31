@@ -5,8 +5,7 @@ TCP-based Chat Application
 • Accepts multiple client connections concurrently.
 • Stores the usernames of connected clients.
 • Broadcasts messages from one client to all others.
-• Responds to /list command by sending a list of currently connected usernames to
-requesting client.
+• Responds to /list command by sending a list of currently connected usernames to requesting client.
 • Handles client disconnections gracefully.
 
 2. Client Program
